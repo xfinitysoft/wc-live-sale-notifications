@@ -102,13 +102,13 @@ Notification for the WooCommerce plugin provides multiple design options so you 
 ### Assign Pages
 
 <dl>
-    <dd>; **Enable/Disable the notification for woocommerce plugin functionality on Homepage/Checkout page/Cart page in settings. Other pages can be assigned with conditional tags.**</dd>
+    <dd> **Enable/Disable the notification for woocommerce plugin functionality on Homepage/Checkout page/Cart page in settings. Other pages can be assigned with conditional tags.**</dd>
 </dl>
 
 ### Set the time
  
 <dl>
-    <dd>; **Notification for WooCommerce plugin allows you to display notifications, delay time showing, loop time.**</dd>
+    <dd> **Notification for WooCommerce plugin allows you to display notifications, delay time showing, loop time.**</dd>
 </dl>
 
 ### Premium link
