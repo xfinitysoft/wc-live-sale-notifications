@@ -1,0 +1,904 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xslsn-live-sale-notification\n"
+"POT-Creation-Date: 2021-05-21 14:33+0500\n"
+"PO-Revision-Date: 2020-11-10 17:55+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: xslsn-includes/xslsn-assign-tab.php:5
+msgid "Home page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:19
+msgid "Turn on is hidden notification on Home page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:26
+msgid "Checkout page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:40
+msgid "Turn on is hidden notification on Checkout page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:46
+msgid "Cart page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:60
+msgid "Turn on is hidden notification on Cart page"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:67
+msgid "Conditional Tags"
+msgstr ""
+
+#: xslsn-includes/xslsn-assign-tab.php:75
+msgid "Let you adjust which pages will appear using WPs conditional tags."
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:7
+msgid "Highlight color"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:21
+msgid "Text color"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:35
+msgid "Background color"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:50
+msgid "Image padding"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:59
+msgid "Gap between product image and notifications border"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:63
+msgid "Enable Custom Templates"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:77
+msgid "Templates will Customize your own Background color and text color"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:83
+msgid "Templates"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:91
+msgid "xslsn-assets/xslsn-img/xslsn_style1.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:95
+msgid "xslsn_style1"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:96
+#: xslsn-includes/xslsn-design-tab.php:109
+#: xslsn-includes/xslsn-design-tab.php:122
+#: xslsn-includes/xslsn-design-tab.php:136
+#: xslsn-includes/xslsn-design-tab.php:149
+#: xslsn-includes/xslsn-design-tab.php:161
+#: xslsn-includes/xslsn-design-tab.php:173
+#: xslsn-includes/xslsn-design-tab.php:185
+#: xslsn-includes/xslsn-design-tab.php:197
+#: xslsn-includes/xslsn-design-tab.php:209
+#: xslsn-includes/xslsn-design-tab.php:221
+#: xslsn-includes/xslsn-design-tab.php:233
+#: xslsn-includes/xslsn-design-tab.php:277
+#: xslsn-includes/xslsn-design-tab.php:291
+#: xslsn-includes/xslsn-design-tab.php:305
+#: xslsn-includes/xslsn-design-tab.php:319
+msgid "checked"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:99
+msgid "Style 1"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:104
+msgid "xslsn-assets/xslsn-img/xslsn_style2.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:108
+msgid "xslsn_style2"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:112
+msgid "Style 2"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:117
+msgid "xslsn-assets/xslsn-img/xslsn_style3.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:121
+msgid "xslsn_style3"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:125
+msgid "Style 3"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:131
+msgid "xslsn-assets/xslsn-img/xslsn_style4.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:135
+msgid "xslsn_style4"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:139
+msgid "Style 4"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:144
+msgid "xslsn-assets/xslsn-img/xslsn_style5.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:148
+msgid "xslsn_style5"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:152
+msgid "Style 5"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:156
+msgid "xslsn-assets/xslsn-img/xslsn_style6.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:160
+msgid "xslsn_style6"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:164
+msgid "Style 6"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:168
+msgid "xslsn-assets/xslsn-img/xslsn_style7.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:172
+msgid "xslsn_style7"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:176
+msgid "Style 7"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:180
+msgid "xslsn-assets/xslsn-img/xslsn_style8.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:184
+msgid "xslsn_style8"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:188
+msgid "Style 8"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:192
+msgid "xslsn-assets/xslsn-img/xslsn_style9.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:196
+msgid "xslsn_style9"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:200
+msgid "Style 9"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:204
+msgid "xslsn-assets/xslsn-img/xslsn_style10.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:208
+msgid "xslsn_style10"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:212
+msgid "Style 10"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:216
+msgid "xslsn-assets/xslsn-img/xslsn_style11.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:220
+msgid "xslsn_style11"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:224
+msgid "Style 11"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:228
+msgid "xslsn-assets/xslsn-img/xslsn_style12.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:232
+msgid "xslsn_style12"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:236
+msgid "Style 12"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:247
+msgid "Image Position"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:254
+#: xslsn-includes/xslsn-design-tab.php:257
+#: xslsn-includes/xslsn-products-tab.php:9
+#: xslsn-includes/xslsn-products-tab.php:11
+#: xslsn-includes/xslsn-products-tab.php:13
+#: xslsn-includes/xslsn-products-tab.php:15
+#: xslsn-includes/xslsn-products-tab.php:17
+#: xslsn-includes/xslsn-products-tab.php:217
+#: xslsn-includes/xslsn-products-tab.php:220
+#: xslsn-includes/xslsn-products-tab.php:268
+#: xslsn-includes/xslsn-products-tab.php:271
+#: xslsn-includes/xslsn-products-tab.php:274
+#: xslsn-includes/xslsn-products-tab.php:317
+#: xslsn-includes/xslsn-products-tab.php:320
+#: xslsn-includes/xslsn-products-tab.php:323
+#: xslsn-includes/xslsn-productsdetails-tab.php:32
+#: xslsn-includes/xslsn-productsdetails-tab.php:35
+#: xslsn-includes/xslsn-sound-tab.php:31
+#: xslsn-includes/xslsn-sound-tab.php:34
+#: xslsn-includes/xslsn-sound-tab.php:37
+msgid "selected"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:255
+msgid "Left"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:258
+msgid "Right"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:264
+msgid "Position"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:272
+msgid "xslsn-assets/xslsn-img/position_1.jpg"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:276
+msgid "xslsn_position_bottomleft"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:281
+msgid "Bottom Left"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:286
+msgid "xslsn-assets/xslsn-img/position_2.jpg"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:290
+msgid "xslsn_position_bottomright"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:296
+msgid "Bottom Right"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:300
+msgid "xslsn-assets/xslsn-img/position_3.jpg"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:304
+msgid "xslsn_position_topleft"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:309
+msgid "Top Left"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:314
+msgid "xslsn-assets/xslsn-img/position_4.jpg"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:318
+msgid "xslsn_position_topright"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:323
+msgid "Top Right"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:333
+msgid "Rounded corner style"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:347
+msgid "Message will be rounded and product image is round instead of square"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:353
+msgid "Custom Rounded corner"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:365
+msgid "Show Close Icon"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:385
+msgid "Time Close"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:395
+msgid "Close icon color"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:405
+msgid "Image redirect"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:425
+msgid "Link target"
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:438
+msgid "Open link on new tab."
+msgstr ""
+
+#: xslsn-includes/xslsn-design-tab.php:445
+msgid "Custom CSS"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:28
+#: xslsn-includes/xslsn-products-tab.php:11
+#: xslsn-includes/xslsn-productsdetails-tab.php:34
+msgid "1"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:30
+#: xslsn-includes/xslsn-frontendpopup.php:31
+#: xslsn-includes/xslsn-products-tab.php:9
+#: xslsn-includes/xslsn-productsdetails-tab.php:31
+msgid "0"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:194
+#: xslsn-includes/xslsn-frontendpopup.php:219
+#: xslsn-includes/xslsn-frontendpopup.php:235
+#: xslsn-includes/xslsn-frontendpopup.php:255
+#: xslsn-includes/xslsn-frontendpopup.php:435
+#: xslsn-includes/xslsn-frontendpopup.php:460
+#: xslsn-includes/xslsn-frontendpopup.php:476
+#: xslsn-includes/xslsn-frontendpopup.php:496
+#: xslsn-includes/xslsn-frontendpopup.php:645
+#: xslsn-includes/xslsn-frontendpopup.php:670
+#: xslsn-includes/xslsn-frontendpopup.php:686
+#: xslsn-includes/xslsn-frontendpopup.php:706
+#: xslsn-includes/xslsn-frontendpopup.php:833
+#: xslsn-includes/xslsn-frontendpopup.php:858
+#: xslsn-includes/xslsn-frontendpopup.php:873
+#: xslsn-includes/xslsn-frontendpopup.php:893
+msgid "  hours ago"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:240
+#: xslsn-includes/xslsn-frontendpopup.php:260
+#: xslsn-includes/xslsn-frontendpopup.php:481
+#: xslsn-includes/xslsn-frontendpopup.php:501
+#: xslsn-includes/xslsn-frontendpopup.php:691
+#: xslsn-includes/xslsn-frontendpopup.php:711
+#: xslsn-includes/xslsn-frontendpopup.php:878
+#: xslsn-includes/xslsn-frontendpopup.php:898
+#: xslsn-includes/xslsn-frontendpopup.php:1103
+msgid "true"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:242
+#: xslsn-includes/xslsn-frontendpopup.php:262
+#: xslsn-includes/xslsn-frontendpopup.php:483
+#: xslsn-includes/xslsn-frontendpopup.php:503
+#: xslsn-includes/xslsn-frontendpopup.php:693
+#: xslsn-includes/xslsn-frontendpopup.php:713
+#: xslsn-includes/xslsn-frontendpopup.php:880
+#: xslsn-includes/xslsn-frontendpopup.php:900
+#: xslsn-includes/xslsn-frontendpopup.php:1105
+msgid "Record Found"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1109
+msgid "false"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1111
+msgid "No Record Found"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1128
+msgid "year"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1129
+msgid "month"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1130
+msgid "week"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1131
+msgid "day"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1132
+msgid "hour"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1133
+msgid "minute"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1134
+msgid "second"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1145
+msgid " ago"
+msgstr ""
+
+#: xslsn-includes/xslsn-frontendpopup.php:1145
+msgid "just now"
+msgstr ""
+
+#: xslsn-includes/xslsn-general-tab.php:7
+#: xslsn-includes/xslsn-sound-tab.php:5
+msgid "Enable"
+msgstr ""
+
+#: xslsn-includes/xslsn-general-tab.php:27
+msgid "Mobile"
+msgstr ""
+
+#: xslsn-includes/xslsn-general-tab.php:44
+msgid "Notification will show on mobile and responsive."
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:5
+msgid "Message purchased"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:13
+msgid "{first_name} - Customers first name"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:16
+msgid "{city} - Customers city"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:19
+msgid "{state} - Customers state"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:22
+msgid "{country} - Customers country"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:25
+msgid "{product} - Product title"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:28
+msgid "{product_with_link} - Product title with link"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:31
+msgid "{time_ago} - Time after purchase"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:34
+msgid "{custom} - Use custom shortcode"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:41
+msgid "Custom"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:48
+msgid "This is {custom} shortcode content."
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:53
+msgid "Min Number"
+msgstr ""
+
+#: xslsn-includes/xslsn-message-tab.php:64
+msgid "Max number"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:5
+#: xslsn-includes/xslsn-notifications-templates.php:83
+#: xslsn-includes/xslsn-notifications-templates.php:111
+msgid "xslsn-assets/xslsn-img/xs.png"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:11
+msgid "Joe Doe in London ?"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:15
+#: xslsn-includes/xslsn-notifications-templates.php:33
+#: xslsn-includes/xslsn-notifications-templates.php:72
+#: xslsn-includes/xslsn-notifications-templates.php:93
+#: xslsn-includes/xslsn-notifications-templates.php:121
+msgid "Joe Doe in London, England purchased a"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:35
+#: xslsn-includes/xslsn-notifications-templates.php:59
+msgid "Ninja Silhouette"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:37
+msgid "About 9 hours agoe"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:41
+msgid "xslsn-assets/xslsn-img/close.svg"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:63
+msgid "9 hours ago"
+msgstr ""
+
+#: xslsn-includes/xslsn-notifications-templates.php:89
+#: xslsn-includes/xslsn-notifications-templates.php:117
+msgid "Joe Doe in London?"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:26
+#: xslsn-includes/xslsn-options.php:27
+msgid "Woo Live Sale Notification"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:45
+msgid "General"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:46
+msgid "Design"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:47
+msgid "Message"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:48
+msgid "Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:49
+msgid "Product Detail"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:51
+msgid "Time"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:52
+#: xslsn-includes/xslsn-sound-tab.php:24
+msgid "Sound"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:53
+msgid "Assign"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:95
+msgid "Save Changes"
+msgstr ""
+
+#: xslsn-includes/xslsn-options.php:101
+msgid "Please intall the woocommerce plugin first to use this plugin"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:5
+msgid "Show Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:10
+msgid "Get from Billing"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:12
+#: xslsn-includes/xslsn-products-tab.php:146
+msgid "Select Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:13
+msgid "2"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:14
+msgid "Latest Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:15
+msgid "3"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:16
+#: xslsn-includes/xslsn-products-tab.php:47
+msgid "Select Categories"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:17
+msgid "4"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:18
+msgid "Recent Viewed Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:24
+msgid "Out-of-stock products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:38
+msgid "Turn on to show out-of-stock products on notifications."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:74
+msgid "Exclude Products"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:105
+msgid "These products will not show on notification."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:112
+msgid "Product limit"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:120
+msgid "Product quantity will be got in list latest products."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:126
+msgid "External link"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:139
+msgid "Working with External/Affiliate product. Product link is product URL."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:180
+msgid "Virtual First Name"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:188
+msgid "Virtual first name what will show on notification. Each first name spreate with comma"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:195
+msgid "Virtual Time"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:203
+#: xslsn-includes/xslsn-products-tab.php:269
+msgid "Hours"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:204
+msgid "Time will auto get random in this time threshold ago."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:210
+msgid "Address"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:216
+msgid "xslsn-virtual"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:218
+msgid "Virtual"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:219
+msgid "xslsn-auto-detect"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:221
+msgid "Auto Detect"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:224
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:230
+msgid "Virtual City"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:238
+msgid "Virtual city name what will show on notification. Each city name on a line."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:244
+msgid "Virtual Country"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:252
+msgid "Virtual country name what will show on notification."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:258
+msgid "Order Time"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:267
+msgid "xslsn_hours"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:270
+msgid "xslsn_days"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:272
+msgid "Days"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:273
+msgid "xslsn_minutes"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:275
+msgid "Minutes"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:278
+msgid "Products in this recently time will get from order"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:284
+msgid "Order Status"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:310
+msgid "Product image size"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:316
+msgid "xslsn_shop_thumbnail"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:318
+msgid "shop_thumbnail- 100x100"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:319
+msgid "xslsn_shop_catalog"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:321
+msgid "shop_catalog- 450x450"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:322
+msgid "xslsn_shop_single"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:324
+msgid "shop_single- 600x0"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:328
+msgid "Image size will get form your WordPress site."
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:333
+msgid "Non Ajax"
+msgstr ""
+
+#: xslsn-includes/xslsn-products-tab.php:349
+msgid "Load popup will not use ajax. Your site will be load faster. It creates cache. It is not working with Get product from Billing feature and options of Product detail tab."
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:5
+msgid "Run single product"
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:19
+msgid "Notification will only display current product in product detail page that they are viewing."
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:25
+msgid "Notification show"
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:33
+msgid "Current Product"
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:36
+msgid "Product in the same category"
+msgstr ""
+
+#: xslsn-includes/xslsn-productsdetails-tab.php:39
+msgid "In product single page, Notification can only display current product or other products in the same category."
+msgstr ""
+
+#: xslsn-includes/xslsn-sound-tab.php:30
+#: xslsn-includes/xslsn-sound-tab.php:32
+msgid "cool.mp3"
+msgstr ""
+
+#: xslsn-includes/xslsn-sound-tab.php:33
+#: xslsn-includes/xslsn-sound-tab.php:35
+msgid "iphone.mp3"
+msgstr ""
+
+#: xslsn-includes/xslsn-sound-tab.php:36
+#: xslsn-includes/xslsn-sound-tab.php:38
+msgid "unique.mp3"
+msgstr ""
+
+#: xslsn-includes/xslsn-sound-tab.php:41
+msgid "Please select sound. Notification rings when show."
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:5
+msgid "Loop"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:24
+msgid "Next time display"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:31
+msgid "Time to show next notification"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:36
+msgid "Notification per page"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:44
+msgid "Number of notifications on a page."
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:48
+msgid "Initial delay"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:56
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:61
+msgid "Display time"
+msgstr ""
+
+#: xslsn-includes/xslsn-time-tab.php:69
+msgid "Time your notification display."
+msgstr ""
